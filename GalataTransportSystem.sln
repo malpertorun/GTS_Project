@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalataTransportSystem", "GalataTransportSystem\GalataTransportSystem.csproj", "{735E5BF9-7DED-4F77-908C-62BF12C4AE44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735E5BF9-7DED-4F77-908C-62BF12C4AE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735E5BF9-7DED-4F77-908C-62BF12C4AE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735E5BF9-7DED-4F77-908C-62BF12C4AE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735E5BF9-7DED-4F77-908C-62BF12C4AE44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0ACCEB1-C639-4281-942E-E8CAE7CE3F2A}
+	EndGlobalSection
+EndGlobal
